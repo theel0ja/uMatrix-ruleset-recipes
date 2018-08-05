@@ -13,3 +13,10 @@ OpenStreetMap embed as 3rd-party
 	* www.openstreetmap.org
 		_ www.openstreetmap.org frame allow
 		_ www.openstreetmap.org script allow
+
+Mapbox as 3rd-party
+	* mapbox.com
+		_ api.mapbox.com script allow
+		_ api.mapbox.com xhr allow
+		_ cdnjs.cloudflare.com script allow
+		_ tiles.mapbox.com xhr allow
