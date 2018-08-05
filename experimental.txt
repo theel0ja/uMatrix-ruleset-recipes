@@ -18,5 +18,5 @@ Mapbox as 3rd-party
 	* mapbox.com
 		_ api.mapbox.com script allow
 		_ api.mapbox.com xhr allow
-		_ cdnjs.cloudflare.com script allow
 		_ tiles.mapbox.com xhr allow
+		_ tiles.mapbox.com script allow
